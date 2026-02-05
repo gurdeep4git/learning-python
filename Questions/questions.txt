@@ -1,0 +1,150 @@
+🧩 1. Data Types (int, float, string, list, tuple, set, dict)
+Easy
+
+Write a program to take a number and print its square and cube.
+
+Convert a string "1234" into an integer and add 10 to it.
+
+Given a list of numbers, find the sum and average.
+
+Count how many times a character appears in a string.
+
+Swap two variables without using a third variable.
+
+Medium
+
+Given a list, remove duplicate elements.
+
+Find the second largest number in a list.
+
+Reverse a string without using slicing.
+
+Create a dictionary from two lists:
+keys = ['a','b','c'], values = [1,2,3]
+
+Check if two strings are anagrams.
+
+🔀 2. Conditionals (if / elif / else)
+Easy
+
+Check whether a number is positive, negative, or zero.
+
+Check if a number is even or odd.
+
+Find the largest of three numbers.
+
+Check if a year is a leap year.
+
+Check whether a character is a vowel or consonant.
+
+Medium
+
+Write a grading system:
+
+90+ → A
+
+75–89 → B
+
+50–74 → C
+
+Below 50 → Fail
+
+Check whether a number is a 3-digit number.
+
+Validate a password:
+
+Minimum 8 characters
+
+Must contain a digit
+
+🔁 3. Loops (for / while)
+Easy
+
+Print numbers from 1 to 100.
+
+Print the multiplication table of a number.
+
+Calculate the sum of first N natural numbers.
+
+Count the number of digits in a number.
+
+Print all even numbers between 1 and 50.
+
+Medium
+
+Check if a number is prime.
+
+Find the factorial of a number.
+
+Reverse a number using a loop.
+
+Print the Fibonacci series up to N terms.
+
+Find the largest element in a list using a loop.
+
+⚠️ 4. Error Handling (try / except)
+Easy
+
+Handle division by zero.
+
+Convert user input to an integer and handle invalid input.
+
+Medium
+
+Ask the user for two numbers and divide them safely.
+
+Access a list index and handle IndexError.
+
+Open a file and handle FileNotFoundError.
+
+Bonus
+
+Create a custom error message for invalid age input.
+
+🧱 5. OOPS (Classes & Objects)
+Easy
+
+Create a class Person with attributes name and age.
+
+Create a method to display details of a person.
+
+Create a class Calculator with add, subtract methods.
+
+Medium
+
+Create a class BankAccount:
+
+account_holder
+
+balance
+Methods:
+
+deposit()
+
+withdraw()
+
+Use constructor (__init__) to initialize values.
+
+Create two objects of the same class and show they have different data.
+
+Advanced (Optional)
+
+Demonstrate inheritance with Animal → Dog.
+
+Override a method in a child class.
+
+Use encapsulation (private variable + getter/setter).
+
+Demonstrate polymorphism using a common method name.
+
+🧪 Mini Practice Projects (Highly Recommended)
+
+Number guessing game
+
+Simple calculator
+
+Student marks management system
+
+ATM simulation
+
+To-do list (console-based)
